@@ -1,4 +1,4 @@
-# bloom_body_balance
+# body_balance
 
 A new Flutter project.
 
